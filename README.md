@@ -8,3 +8,7 @@ Objectives:
 - Perform some EDA and Feature Engineering
 - Given profile, predict if salary is great than or equal to $50,000 per year
 - Test different models and validate on test set
+
+## COVID Forecasting by Country
+
+- Comming soon...
